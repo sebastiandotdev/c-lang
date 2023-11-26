@@ -1,2 +1,2 @@
-# c-lang
+# C lang
 C programming language
